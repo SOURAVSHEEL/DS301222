@@ -6,3 +6,5 @@ for i in range(1,11):
         else:
             print(mul,end=" ")
     print()
+
+    
